@@ -1,2 +1,2 @@
 # LandingPage
-projete da langing page
+projeto da landing page do tcc
